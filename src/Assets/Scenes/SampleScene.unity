@@ -413,10 +413,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 146800621}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 93940901731cccd46a492b741714f2d4, type: 3}
+  m_Script: {fileID: 11500000, guid: 867b13b0132815542b7071078a2812b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetMaterial: {fileID: -876546973899608171, guid: c465a9f810d0f4a4a8ec067538b7f75c, type: 3}
+  rippleMaterial: {fileID: -876546973899608171, guid: c465a9f810d0f4a4a8ec067538b7f75c, type: 3}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0

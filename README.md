@@ -2,7 +2,6 @@
 テクスチャに対してレンダリングを行います。
 
 ## 結果
-https://github.com/user-attachments/assets/0863b756-8a06-4a4e-aae5-21362bc234dc
 ![結果画像](Result.gif)
 
 # 自分なりに変更した点
